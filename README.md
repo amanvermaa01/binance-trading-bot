@@ -1,5 +1,5 @@
 # Binance Futures Testnet Trading Bot & Terminal Dashboard
-![Live Routing Dashboard](trading-bot-binance-frontend/public/Screenshot%(84).png)
+![Live Dashboard](trading-bot-binance-frontend/public/Screenshot(84).png)
 
 ## Overview
 A production-quality trading application that places Market, Limit, and Stop Limit orders on the Binance Futures USDT-M Testnet. The project features:
